@@ -36,6 +36,17 @@ Analyzed correlations between social media usage patterns and mental health indi
 `MySQL` · `SQL` · `EDA` · `Data Cleaning` · `Window Functions`
 
 ---
+# 📊 Featured Project
+## [ YouTube-Analytics-SQL-Projec](thttps://github.com/shivavishwanadhula/YouTube-Analytics-SQLProject/blob/main/sql_project_youtube)
+
+Performed advanced SQL analytics on YouTube trending video data to uncover audience engagement patterns, content performance trends, and channel growth insights. Generated business-driven insights on views, likes, comments, virality metrics, publishing behavior, and category-wise performance using real-world analytical SQL techniques.
+
+### Key Techniques
+Data Cleaning · SQL Joins · Window Functions · Views · Stored Procedures · Business Analysis Queries · EDA
+
+### Tech Used
+MySQL · SQL · EDA · Data Cleaning · Window Functions
+---
 
 # 🔭 Currently Building
 
