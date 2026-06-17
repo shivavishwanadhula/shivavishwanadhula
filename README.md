@@ -49,23 +49,61 @@ MySQL · SQL · EDA · Data Cleaning · Window Functions
 
 ---
 
+## 📊 Featured Project
+## Blinkit-Sales-EDA-Analysis
+
+Performed comprehensive Exploratory Data Analysis (EDA) on Blinkit retail sales data to uncover customer purchasing behavior, sales performance trends, product category insights, and business growth opportunities. Leveraged Python-based analytical techniques to clean, transform, visualize, and interpret real-world retail data, enabling data-driven business decision-making.
+
+## 🔑 Key Techniques
+Data Cleaning · Data Transformation · Exploratory Data Analysis (EDA) · Feature Engineering · Data Visualization · Statistical Analysis · Business Insights · Trend Analysis · Pandas · NumPy · Matplotlib · Seaborn
+
+## 🛠️ Tech Used
+Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook · CSV · GitHub
+
+## 📈 Project Highlights
+Cleaned and processed raw retail sales data.
+Performed missing value and duplicate value analysis.
+Analyzed sales trends across product categories.
+Identified top-performing and low-performing products.
+Evaluated customer purchasing patterns.
+Created professional visualizations using Matplotlib and Seaborn.
+Generated actionable business insights and recommendations.
+Built an end-to-end EDA workflow following industry-standard practices.
+
+## 📋 Business Insights
+Identified categories contributing the highest sales revenue.
+Analyzed product visibility impact on sales performance.
+Evaluated outlet size and location influence on revenue generation.
+Discovered customer demand patterns across item types.
+Highlighted opportunities for inventory optimization and sales growth.
+I am uploading this total same to same
+
+---
 # 🔭 Currently Building
 
-- 🗃️ Real-world SQL projects
-- 🐍 Python analytics pipelines
-- 📊 Power BI dashboards
-- 💡 Business insight storytelling
-- 📈 Data visualization projects
+* 🗄️ Advanced SQL Analytics Projects
+* 🐍 Python-Based Data Analytics Solutions
+* 📊 Executive KPI Dashboards & BI Reporting
+* 📈 Predictive Analytics & Statistical Modeling
+* 🏗️ Data Warehousing & Dimensional Modeling
+* 🔄 ETL/ELT Data Pipelines & Workflow Automation
+* 📉 Data Storytelling & Business Insights
+* ⚡ SQL Performance Optimization & Query Engineering
+* 🚀 Real-World Analytics Portfolio Projects
 
 ---
 
 # 📚 Currently Learning
 
-- 🔍 Advanced SQL Optimization
-- 🐍 Python for Data Analytics
-- 📊 Power BI & DAX
-- 📈 Exploratory Data Analysis
-- 🌿 Git & GitHub
+* 🔍 Advanced SQL & Query Optimization
+* 🐍 Python for Data Analytics
+* 📊 Power BI & DAX
+* 📈 Exploratory Data Analysis (EDA)
+* 📉 Data Visualization with Matplotlib & Seaborn
+* 🗄️ Data Modeling & Data Warehousing Fundamentals
+* 🔄 ETL/ELT Concepts & Data Pipelines
+* 🌿 Git & GitHub
+
 
 ---
 
