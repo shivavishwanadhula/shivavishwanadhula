@@ -50,7 +50,7 @@ MySQL · SQL · EDA · Data Cleaning · Window Functions
 ---
 
 ## 📊 Featured Project
-## Blinkit-Sales-EDA-Analysis
+## [Blinkit Sales EDA Analysis](https://github.com/shivavishwanadhula/blinkit-sales-business-analysis)
 
 Performed comprehensive Exploratory Data Analysis (EDA) on Blinkit retail sales data to uncover customer purchasing behavior, sales performance trends, product category insights, and business growth opportunities. Leveraged Python-based analytical techniques to clean, transform, visualize, and interpret real-world retail data, enabling data-driven business decision-making.
 
