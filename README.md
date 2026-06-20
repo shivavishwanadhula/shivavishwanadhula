@@ -37,7 +37,7 @@ Analyzed correlations between social media usage patterns and mental health indi
 
 ---
 # 📊 Featured Project
-## [ YouTube-Analytics-SQL-Projec](https://github.com/shivavishwanadhula/YouTube-Analytics-SQL-Project)
+## [YouTube Trending Video Analytics Using SQL](https://github.com/shivavishwanadhula/YouTube-Analytics-SQL-Project)
 
 Performed advanced SQL analytics on YouTube trending video data to uncover audience engagement patterns, content performance trends, and channel growth insights. Generated business-driven insights on views, likes, comments, virality metrics, publishing behavior, and category-wise performance using real-world analytical SQL techniques.
 
@@ -50,7 +50,7 @@ MySQL · SQL · EDA · Data Cleaning · Window Functions
 ---
 
 ## 📊 Featured Project
-## [Blinkit Sales EDA Analysis](https://github.com/shivavishwanadhula/blinkit-sales-business-analysis)
+## [Blinkit Sales EDA & Business Analysis](https://github.com/shivavishwanadhula/blinkit-sales-business-analysis)
 
 Performed comprehensive Exploratory Data Analysis (EDA) on Blinkit retail sales data to uncover customer purchasing behavior, sales performance trends, product category insights, and business growth opportunities. Leveraged Python-based analytical techniques to clean, transform, visualize, and interpret real-world retail data, enabling data-driven business decision-making.
 
